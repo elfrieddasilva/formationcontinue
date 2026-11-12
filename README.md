@@ -1,5 +1,5 @@
 # MADES Formation Continue
-
+ 
 Plateforme de formation continue MADES en **4 niveaux** — JES Niveau 1,
 JES Niveau 2, Entraîneur sports de raquette, Diplôme d'État (avec nos
 partenaires) — avec, à chaque niveau, **5 modules sportifs** : tennis, beach
